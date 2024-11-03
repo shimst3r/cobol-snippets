@@ -1,6 +1,6 @@
        IDENTIFICATION DIVISION.
        PROGRAM-ID. BirthdayCalculator.
-      *Calculate the year, month, and date of a date.
+      *Calculate the year, month, and day of a date.
        AUTHOR. Nils Müller.
        DATE-WRITTEN. 2024-11-03.
       
